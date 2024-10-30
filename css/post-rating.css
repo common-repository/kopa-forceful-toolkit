@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 13, 2014, 1:33:36 PM
+    Author     : Duy
+*/
+
+
+.kopa-rating-box,.kopa-rating li, .kopa-rating-box > li > ul{
+    list-style: none;
+    float: left;
+    margin: 0 !important;
+	padding-left:0 !important;
+}
+
